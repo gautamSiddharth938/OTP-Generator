@@ -1,7 +1,11 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: rgb(173, 125, 125);
+    /* background-color: rgb(173, 125, 125); */
+    background-image: url('jonathan-borba-3eC5n6gHwe8-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
