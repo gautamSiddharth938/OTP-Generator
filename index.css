@@ -17,7 +17,7 @@ body{
     width: 40%;
     height: 50%;
     border: 2px solid greenyellow;
-    background-color: rgb(22, 11, 177);
+    background: transparent;
     border-radius: 10px;
     font-size: 18px;
     font-weight: 400;
@@ -32,8 +32,9 @@ body{
     margin: 1.5rem;
     padding: 1rem;
     font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 400;
-    color: white;
+    color: rgb(247, 5, 5);
     margin-left: 8px;
 }
 
